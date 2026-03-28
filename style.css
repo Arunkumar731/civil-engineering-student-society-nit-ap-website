@@ -129,7 +129,7 @@ a   { color: inherit; text-decoration: none; }
 .nav-brand {
   /* ── Matches "Civil Engineering Student Society" exactly ── */
   font-family: var(--font-cond);
-  font-size: 2.2rem;
+  font-size: 2.5rem;
   font-weight: 700;
   color: var(--text-dark);
   letter-spacing: 0.04em;
@@ -335,7 +335,7 @@ a   { color: inherit; text-decoration: none; }
   align-items: start;
 }
 .about-text p {
-  font-size: 1.65rem;
+  font-size: 2rem;
   color: var(--text-muted);
   margin-bottom: 16px;
   line-height: 1.75;
@@ -436,7 +436,7 @@ a   { color: inherit; text-decoration: none; }
 .message-card.reverse .message-body { flex-direction: row-reverse; }
 .message-tag {
   font-family: var(--font-cond);
-  font-size: 1.3rem;
+  font-size: 1.5rem;
   font-weight: 700;
   letter-spacing: 0.12em;
   text-transform: uppercase;
